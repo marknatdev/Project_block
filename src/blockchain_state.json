@@ -1,0 +1,35 @@
+{
+    "chain": [
+        {
+            "index": 1,
+            "timestamp": 1765518034.0227785,
+            "transactions": [],
+            "nonce": 0,
+            "previous_hash": "0"
+        },
+        {
+            "index": 2,
+            "timestamp": 1765518186.8836355,
+            "transactions": [
+                {
+                    "sender": "THE_NETWORK",
+                    "recipient": "7471eb13218f49cd9959f53c0eb7709d",
+                    "data": "MINING_REWARD_10_TOKEN",
+                    "signature": "SYSTEM_SIGNATURE",
+                    "timestamp": 1765518186.8836155
+                },
+                {
+                    "sender": "0x498aca8033876873ff0e26f2d9c56a53e66215d9",
+                    "recipient": "0xecc3505c8403ebb80f6e901c82f4b78b0851a78b",
+                    "data": "hello",
+                    "signature": "32b8f4953dd3b87c4a8dbf4f3eb879020322bd0c8b5cd7aebd4a0e9eb03679a4",
+                    "timestamp": 1765518177.5450861
+                }
+            ],
+            "nonce": 385,
+            "previous_hash": "40a3d60617f88365c417bb85061860848d5e34805a745efca6802cf7ea9d0b4d"
+        }
+    ],
+    "pending_transactions": [],
+    "node_identifier": "7471eb13218f49cd9959f53c0eb7709d"
+}
